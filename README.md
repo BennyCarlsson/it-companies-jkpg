@@ -40,3 +40,6 @@
 
 - **[Qsys](https://www.qsys.se/)**: Provides logistics and digital solutions, including cloud infrastructure, wireless networks, IT security, and Office 365.
 
+
+---
+*This is a work in progress. If a company is missing or you think that the information should be updated feel free to make a pull request or email me at carlsson.benny93@gmail.com*
