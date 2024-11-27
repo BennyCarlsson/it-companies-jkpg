@@ -8,6 +8,8 @@
 - **[Consid](https://consid.se/)**: A digital transformation partner offering IT services and solutions.
 - **[Combitech](https://www.combitech.com/)**: A Nordic technology consulting company focusing on digitalization and cybersecurity.
 - **[CGI](https://www.cgi.com/en/overview)**: A global IT and business consulting firm specializing in digital transformation, cybersecurity, cloud solutions, and industry-specific services across 21 sectors. CGI offers scalable solutions and supports clients in achieving sustainable results through innovative technology and business strategies.
+- **[Softhouse](https://www.softhouse.se/)**: A Swedish consultancy focused on software development, digitalization, and design, with over 300 employees across nine offices.
+
 
 
 ## Other IT Companies
@@ -37,3 +39,4 @@
 - **[ITAB](https://www.itab.com/)**: Specializes in providing retail technology solutions, including checkout systems, store interiors, and lighting solutions.
 
 - **[Qsys](https://www.qsys.se/)**: Provides logistics and digital solutions, including cloud infrastructure, wireless networks, IT security, and Office 365.
+
