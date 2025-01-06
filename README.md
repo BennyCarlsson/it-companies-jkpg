@@ -9,6 +9,8 @@
 - **[Combitech](https://www.combitech.com/)**: A Nordic technology consulting company focusing on digitalization and cybersecurity.
 - **[CGI](https://www.cgi.com/en/overview)**: A global IT and business consulting firm specializing in digital transformation, cybersecurity, cloud solutions, and industry-specific services across 21 sectors. CGI offers scalable solutions and supports clients in achieving sustainable results through innovative technology and business strategies.
 - **[Softhouse](https://www.softhouse.se/)**: A Swedish consultancy focused on software development, digitalization, and design, with over 300 employees across nine offices.
+- **[Divid AB](https://divid.se/sv/)**: A Jönköping-based IT consultancy specializing in product configuration software for complex products. They offer solutions like CPQ (Configure, Price, Quote) and CPIM (Configurable Product Information Management) systems, serving clients such as Systemair, Munters, Swegon, and Ekovent.
+
 
 
 
