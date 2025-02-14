@@ -1,6 +1,8 @@
 # IT Companies in Jönköping, Sweden
 
 ## Consulting Companies
+
+- **[Castra](https://www.castra.se/)**: A consultancy firm specializing in IT and management, offering services in system development, project management, and IT architecture.
 - **[HiQ](https://hiq.se/)**: A consultancy specializing in digital solutions and technology transformations.
 - **[Cybercom](https://www.knowit.se/)**: Provides sustainable technology solutions, now part of Knowit.
 - **[Kvadrat](https://www.kvadrat.se/)**: Independent consultants offering services in IT and business development.
@@ -11,10 +13,8 @@
 - **[Softhouse](https://www.softhouse.se/)**: A Swedish consultancy focused on software development, digitalization, and design, with over 300 employees across nine offices.
 - **[Divid AB](https://divid.se/sv/)**: A Jönköping-based IT consultancy specializing in product configuration software for complex products. They offer solutions like CPQ (Configure, Price, Quote) and CPIM (Configurable Product Information Management) systems, serving clients such as Systemair, Munters, Swegon, and Ekovent.
 
-
-
-
 ## Other IT Companies
+
 - **[Husqvarna](https://www.husqvarna.com/)**: A leading global producer of outdoor power products, robotics, and IT solutions.
 - **[DVel](https://www.dvel.se/)**: Specializes in test systems and automation solutions.
 - **[Infovisaren](https://www.infovisaren.se/)**: Experts in business intelligence and analytics solutions.
@@ -42,6 +42,6 @@
 
 - **[Qsys](https://www.qsys.se/)**: Provides logistics and digital solutions, including cloud infrastructure, wireless networks, IT security, and Office 365.
 
-
 ---
-*This is a work in progress. If a company is missing or you think that the information should be updated feel free to make a pull request or email me at carlsson.benny93@gmail.com*
+
+_This is a work in progress. If a company is missing or you think that the information should be updated feel free to make a pull request or email me at carlsson.benny93@gmail.com_
